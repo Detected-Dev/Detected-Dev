@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm a Full Stack Developer</h1>
 
 <p align="center">
-  💻 HTML • CSS • JavaScript • React • Next.js • Node.js • Python • MySQL
+  💻 HTML • CSS • JavaScript • React • Next.js • Node.js • Python • MySQL • Laravel • React • MongoDB
 </p>
 
 ---
